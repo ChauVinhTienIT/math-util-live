@@ -22,7 +22,9 @@ public class MathUtilLive {
         long result = MathUtil.getFactional(5);
         System.out.println("5! = 120; actual: " + result);
         
-        
+        // Sua them cai nay nha
+        result = MathUtil.getFactional(5);
+        System.out.println("5! = 120; actual: " + result);
     }
     
 }
